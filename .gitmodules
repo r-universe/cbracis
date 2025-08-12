@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "pdmod"]
-	path = pdmod
-	url = https://github.com/cran/pdmod
 [submodule "recurse"]
 	path = recurse
 	url = https://github.com/cbracis/recurse
